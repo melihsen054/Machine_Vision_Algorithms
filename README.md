@@ -1,3 +1,3 @@
-# Machine_Vision_Algorithms
+# Machine Vision Algorithms
 
-READ ME
+This repository includes C++ implementations of several image processing methods.
